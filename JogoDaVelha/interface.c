@@ -257,11 +257,11 @@ void creditos()
     printf("Creditos\n\n");
 
     printf("Programa criado por:\n\n");
+    printf(" - Caio Vitor\n");
     printf(" - Emanuel Honorio\n");
     printf(" - Felipe Bento\n");
-    printf(" - Caio\n");
-    printf(" - Rafael\n");
     printf(" - Joao Otavio\n");
+    printf(" - Rafael Tobit\n");
 
     pause();
 
